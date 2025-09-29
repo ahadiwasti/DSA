@@ -16,3 +16,16 @@ The goal is to build a clean collection of practice problems with explanations a
 ## 📂 Structure
 Each problem is organized as a Go file under its respective folder:
 
+Continue reading
+- [Theory](Theory/README.md)
+- `arrays/` - Array problems
+- `linkedlists/` - Linked List problems
+- `trees/` - Tree problems
+- `graphs/` - Graph problems
+- `sorting/` - Sorting algorithms
+- `searching/` - Searching algorithms
+- `dynamicprogramming/` - Dynamic Programming problems
+- `strings/` - String manipulation problems
+- `math/` - Math-related problems
+- `stacksqueues/` - Stack and Queue problems
+- `bitmanipulation/` - Bit Manipulation problems
