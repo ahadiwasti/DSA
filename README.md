@@ -18,7 +18,7 @@ Each problem is organized as a Go file under its respective folder:
 
 Continue reading
 - [Theory](Theory/README.md)
-- `arrays/` - Array problems
+- [Array](Array/README.md) - Array problems
 - `linkedlists/` - Linked List problems
 - `trees/` - Tree problems
 - `graphs/` - Graph problems
