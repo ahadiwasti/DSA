@@ -17,7 +17,7 @@ The goal is to build a clean collection of practice problems with explanations a
 Each problem is organized as a Go file under its respective folder:
 
 Continue reading
-- [Theory](Theory/README.md)
+- [Introduction](Introduction/README.md)
 - [Array](Array/README.md) - Array problems
 - `linkedlists/` - Linked List problems
 - `trees/` - Tree problems
